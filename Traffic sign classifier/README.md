@@ -19,7 +19,7 @@ Classifies images of traffic signs from a dataset of 34799 images into 43 classe
 
 ## Model description
 
-Model: "sequential"
+```Model: "sequential"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -44,7 +44,7 @@ dense_14 (Dense)             (None, 43)                3655
 Total params: 64,511
 Trainable params: 64,511
 Non-trainable params: 0
-
+```
 ## Training parameters
 - Epochs: 50
 - Optimizer: Adam
