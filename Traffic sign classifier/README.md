@@ -57,4 +57,11 @@ Non-trainable params: 0
 - Validation accuracy: 90.20%
 - Test-set accuracy: 89.51%
 
+## Output:
+
 Plotted confusion matrix and displayed labels and predictions from a random set of 25 images chosen from testset.
+
+![Traffic_signs](https://github.com/susiejojo/CNN_projects/blob/master/Traffic sign classifier/traffic_signal.png)
+
+
+
