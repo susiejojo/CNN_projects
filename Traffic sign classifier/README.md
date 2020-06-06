@@ -61,7 +61,7 @@ Non-trainable params: 0
 
 Plotted confusion matrix and displayed labels and predictions from a random set of 25 images chosen from testset.
 
-![Traffic_signs](https://github.com/susiejojo/CNN_projects/blob/master/Traffic sign classifier/traffic_signal.png)
+![Traffic_signs](https://github.com/susiejojo/CNN_projects/blob/master/Traffic%20sign%20classifier/traffic_signal.png)
 
 
 
