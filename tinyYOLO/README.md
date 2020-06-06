@@ -18,6 +18,13 @@ We took the outputs of the Darknet CNN trained on the Coco dataset, which contai
 - Argparse
 
 This was tested on 3 videos containing various objects like buses, cars, traffic signals, people etc. It was able to detect the objects with their locations and class labels with decent accuracy.
- 
 
+## Example output:
+A screenshot from an annotated video of a drive through Chinatown:
+
+![Chinatown_drive](https://github.com/susiejojo/CNN_projects/blob/master/tinyYOLO/chinatown_anno.png)
+
+A screenshot from an annotated video of a drive through Chicago:
+
+![Chicago_drive](https://github.com/susiejojo/CNN_projects/blob/master/tinyYOLO/chicago_drivethrough.png)
 
