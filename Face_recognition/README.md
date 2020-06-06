@@ -1,6 +1,6 @@
 # Face recognition and verification using Siamese network
 
-Find implementation of Siamese network and Triplet loss function (trained on MNIST dataset) from scratch at [Siamese net](https://github.com/susiejojo/CNN_projects/tree/master/Siamese_net).
+Find implementation of Siamese network and Triplet loss function (trained on MNIST dataset) from scratch at [Siamese net](https://github.com/susiejojo/CNN_projects/tree/master/Siamese_net_MNIST).
 
 ## Approach
 
