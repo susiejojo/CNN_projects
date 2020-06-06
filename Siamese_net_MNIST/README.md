@@ -4,7 +4,7 @@ In this project, we have implemented a Siamese network from scratch, trained on 
 
 ## Theory and approach
 
-The theory being Siamese network and the Triplet loss function has been described in these [notes].(https://iiitaphyd-my.sharepoint.com/:o:/g/personal/dipanwita_g_research_iiit_ac_in/Es6SXBA5SmJNrkdJWrpORBkBGO6nRqdJyN7AWL-dZDKu7Q?e=Ddl2YG)
+The theory being Siamese network and the Triplet loss function has been described in these [notes](https://iiitaphyd-my.sharepoint.com/:o:/g/personal/dipanwita_g_research_iiit_ac_in/Es6SXBA5SmJNrkdJWrpORBkBGO6nRqdJyN7AWL-dZDKu7Q?e=Ddl2YG)
 
 ## Model description
 
